@@ -6,6 +6,8 @@ export const colors = {
   qualitiblue600: '#2D4F59',
   qualitiblue900: '#0F2229',
 
+  test: '#FFF',
+
   // Curso
   white: '#FFF',
   black: '#000',
