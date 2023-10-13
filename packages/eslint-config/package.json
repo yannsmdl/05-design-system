@@ -1,5 +1,6 @@
 {
   "name": "@yannsml-devz/eslint-config",
+  "version": "2.0.0",
   "license": "MIT",
   "private": true,
   "main": "index.js",
