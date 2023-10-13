@@ -32,7 +32,7 @@ jobs:
           publish: npm run release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: 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
-          TURBO_TOKEN: 2UR3Ba141YtzogSmFoMk53qR
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          TURBO_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           TURBO_TEAM: yanns-projects-a0d1d71e
 
