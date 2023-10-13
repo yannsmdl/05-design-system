@@ -1,0 +1,4 @@
+{
+    "extends":"@yannsml-devz/ts-config/react.json",
+    "include":["src"]
+}
